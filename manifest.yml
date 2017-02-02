@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 640M
+  instances: 1
+  domain: mybluemix.net
+  name: julionodered
+  host: julio-nodered
+  disk_quota: 1024M
